@@ -1,8 +1,12 @@
+### About me
+Hello, I'm Taichone!
+I'm a Japanese university student majoring in computer science and studying to become an application engineer. My dream is to develop software that can support people in increasing their productivity　⭐
+
+### Github Trophies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
-**Taichone/Taichone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Github Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)

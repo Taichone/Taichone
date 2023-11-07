@@ -1,4 +1,4 @@
-### About me　💬
+### About me 💬
 Hello, I'm Taichone!
 I'm a Japanese university student majoring in computer science and studying to become an application engineer. My dream is to develop software that can support people in increasing their productivity⭐
 

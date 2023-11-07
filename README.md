@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Github Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=flat&title=-issuess)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=flat&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)

@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Github Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=juicyfresh&no-bg=true)]
+![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=juicyfresh&no-bg=true)

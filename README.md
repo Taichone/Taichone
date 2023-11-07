@@ -3,8 +3,13 @@ Hello, I'm Taichone!
 I'm a Japanese university student majoring in computer science and studying to become an application engineer. My dream is to develop software that can support people in increasing their productivity⭐
 
 ### Github Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=onedark&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=radical&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taichone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taichone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...

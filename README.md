@@ -9,7 +9,7 @@ I usually develop iOS apps as a hobby.
 
 ## Products
 Plasta (iOS, iPadOS)  
-A Simulation App That Visualizes Individual Skills Like a Baseball Game.  
+A Simulation App that visualizes individual skills like a baseball game.  
 <a href="https://apps.apple.com/app/id6478379835">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/63/d0/6e63d0d0-5074-de91-faa5-ca0a7815af39/AppIcon-0-0-1x_U007epad-0-P3-85-220.png/460x0w.webp" alt="AppStore" height="80"/>
 </a>
@@ -18,7 +18,7 @@ A Simulation App That Visualizes Individual Skills Like a Baseball Game.
 </a>
 
 Taimer (iOS, iPadOS)  
-A Pomodoro Timer App That Can Start Breaks Manually, Not Just Automatically.  
+A Pomodoro Timer App that can start breaks manually, not just automatically.  
 <a href="https://apps.apple.com/jp/app/taimer-ずっと集中できるシンプルなタイマー/id1611016284">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/95/2a/c7952ac6-fe7b-bc0d-124b-d0f60c42c76b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" alt="AppStore" height="80"/>
 </a>

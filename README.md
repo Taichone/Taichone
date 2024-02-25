@@ -1,23 +1,14 @@
-### 📝 About me
-Hello, I'm Taichone!
-I'm a Japanese university student majoring in computer science and studying to become an app developer. My dream is to develop software that can support people in increasing their productivity⭐
+## 📝 About me
+Currently a Japanese university student with a major in Computer Science.
+I usually develop iOS apps as a hobby.
 
-### 🏆 Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=taichone&theme=radical&title=MultiLanguage,Commits,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📚 Top Languages
+## 📚 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taichone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taichone&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## My Apps
+- [App Store](https://apps.apple.com/jp/developer/taichi-miki/id1611016286)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [X(Twitter)](https://twitter.com/taichone)
+- [Zenn](https://zenn.dev/taichone)
+- [Wantedly](https://www.wantedly.com/id/miki_taichi)

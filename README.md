@@ -18,7 +18,7 @@ A Simulation App That Visualizes Individual Skills Like a Baseball Game.
 </a>
 
 Taimer (iOS, iPadOS)  
-A Pomodoro Timer That Can Start Breaks Manually, Not Just Automatically.  
+A Pomodoro Timer App That Can Start Breaks Manually, Not Just Automatically.  
 <a href="https://apps.apple.com/jp/app/taimer-ずっと集中できるシンプルなタイマー/id1611016284">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/95/2a/c7952ac6-fe7b-bc0d-124b-d0f60c42c76b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" alt="AppStore" height="80"/>
 </a>

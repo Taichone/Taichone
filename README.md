@@ -1,10 +1,5 @@
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taichone&theme=radical" width="400" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=taichone&theme=radical&border_radius=10" width="400" />
   </a>
 </p>

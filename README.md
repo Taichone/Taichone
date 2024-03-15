@@ -1,8 +1,10 @@
+<!--
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=taichone&theme=radical&border_radius=10" width="400" />
   </a>
 </p>
+-->
 
 # About me
 I'm a student majoring in CS at Nagoya University, and usually develop iOS apps as a hobby.

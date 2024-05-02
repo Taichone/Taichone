@@ -33,6 +33,5 @@ A Pomodoro Timer App that can start breaks manually, not just automatically.
 
 
 # Links
-- [X(Twitter)](https://twitter.com/taichone)
-- [Zenn](https://zenn.dev/taichone)
+- [My Links](https://bento.me/taichone)
 - [Wantedly](https://www.wantedly.com/id/miki_taichi)

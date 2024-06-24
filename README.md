@@ -7,7 +7,7 @@
 -->
 
 # About me
-I'm a student majoring in CS at Nagoya University, and usually develop iOS apps as a hobby.
+I'm a student majoring in CS at Nagoya University, and usually develop apps as a hobby.
 
 
 # Participated Internships

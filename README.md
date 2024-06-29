@@ -29,16 +29,22 @@ A Pomodoro Timer App that can start breaks manually, not just automatically.
   <a href="https://apps.apple.com/jp/app/taimer-ずっと集中できるシンプルなタイマー/id1611016284">
       <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/95/2a/c7952ac6-fe7b-bc0d-124b-d0f60c42c76b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" alt="AppStore" height="100"/>
   </a>
+</div>
 
 # My Skills
 ### iOS
+
 <div>
   <a href="https://developer.apple.com/documentation/swift" style="display: inline-block">
       <img src="https://github.com/Taichone/Taichone/assets/86025871/c535a170-db3c-44dc-bca9-75c586f994cb" alt="Swift" height="100"/>
   </a>
+  <a href="https://developer.apple.com/documentation/swiftui" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/62f7a4b4-d5bf-47fe-b591-ec01b1c845ff" alt="SwiftUI" height="100"/>
+  </a>
+  <a href="https://developer.apple.com/documentation/swiftui" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/b48e4351-c4c4-4a30-974d-06783625603a" alt="UIKit" height="100"/>
+  </a>
 </div>
-- SwiftUI
-- UIKit
 
 ### NLP & Machine Learning
 - Python

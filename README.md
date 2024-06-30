@@ -33,7 +33,6 @@ A Pomodoro Timer App that can start breaks manually, not just automatically.
 
 # My Skills
 ### iOS
-
 <div>
   <a href="https://developer.apple.com/documentation/swift" style="display: inline-block">
       <img src="https://github.com/Taichone/Taichone/assets/86025871/c535a170-db3c-44dc-bca9-75c586f994cb" alt="Swift" height="100"/>
@@ -41,23 +40,40 @@ A Pomodoro Timer App that can start breaks manually, not just automatically.
   <a href="https://developer.apple.com/documentation/swiftui" style="display: inline-block">
       <img src="https://github.com/Taichone/Taichone/assets/86025871/62f7a4b4-d5bf-47fe-b591-ec01b1c845ff" alt="SwiftUI" height="100"/>
   </a>
-  <a href="https://developer.apple.com/documentation/swiftui" style="display: inline-block">
+  <a href="https://developer.apple.com/documentation/uikit" style="display: inline-block">
       <img src="https://github.com/Taichone/Taichone/assets/86025871/b48e4351-c4c4-4a30-974d-06783625603a" alt="UIKit" height="100"/>
   </a>
 </div>
 
-### NLP & Machine Learning
-- Python
-- Google Colab
-- MeCab
-- PyTorch
-- Transformers
+### Natural Language Processing
+<div>
+  <a href="https://www.python.org/" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/66bd4fed-69aa-4901-945e-d74dd134030c" alt="Python" height="100"/>
+  </a>
+  <a href="https://colab.research.google.com/" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/cd0614b5-3084-4674-869b-7729aff1ffca" alt="Google Colaboratory" height="100"/>
+  </a>
+  <a href="https://huggingface.co/docs/transformers/ja/model_doc/bert" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/a31ff01f-45ec-4354-b124-06adfbe0146a" alt="BERT" height="100"/>
+  </a>
+</div>
+
 
 ### Others
-- C
-- git
-- GitHub
-- Firebase
+<div>
+  <a href="https://www.iso.org/standard/74528.html" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/a5be4c3c-42f0-4f47-b3bd-357878ffe586" alt="C" height="100"/>
+  </a>
+  <a href="https://git-scm.com/" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/a280d3c6-2e32-442c-a7d2-793f38790680" alt="git" height="100"/>
+  </a>
+  <a href="https://github.com/" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/29b3054f-8913-4f73-baa4-d514bc688bd1" alt="GitHub" height="100"/>
+  </a>
+  <a href="https://firebase.google.com/" style="display: inline-block">
+      <img src="https://github.com/Taichone/Taichone/assets/86025871/b678d87e-fdc3-4a66-81f7-146c8bf9c608" alt="Firebase" height="100"/>
+  </a>
+</div>
 
 # Links
 - [My Links](https://bento.me/taichone)

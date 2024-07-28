@@ -10,8 +10,14 @@
 I'm a student majoring in CS at Nagoya University, and usually develop apps as a hobby.
 
 
-# Participated Internships
-- 2021/6 - 2022/12: Internship as an iOS engineer at [L is B](https://l-is-b.com/)
+# Part-time jobs, internships, etc.
+- 2021/6 (18 months): Part-time job at [L is B](https://l-is-b.com/)
+- 2024/7 (1 day):   Internship at [Sansan](https://jp.corp-sansan.com/)
+- 2024/7 (2 weeks): Internship at [teamLab](https://www.team-lab.com/)
+- 2024/8 (2 days):  CYCOMPE at [CyberAgent](https://www.cyberagent.co.jp/)
+- 2024/9 (5 days):  Internship at [Cybozu](https://cybozu.co.jp/)
+- 2024/9 (5 days):  Internship at [Rakuten](https://global.rakuten.com/corp/)
+- 2024/9 (2 weeks): Internship at [Yumemi](https://www.yumemi.co.jp/)
 
 
 # Products

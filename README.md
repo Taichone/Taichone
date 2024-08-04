@@ -11,7 +11,7 @@ I'm a student majoring in CS at Nagoya University, and usually develop apps as a
 
 
 # Part-time jobs, internships, etc.
-- 2021/6 (18 months): Part-time job at [L is B](https://l-is-b.com/)
+- 2021/6 (1.5 years): Part-time job at [L is B](https://l-is-b.com/)
 - 2024/7 (1 day):   Internship at [Sansan](https://jp.corp-sansan.com/)
 - 2024/7 (2 weeks): Internship at [teamLab](https://www.team-lab.com/)
 - 2024/8 (2 days):  CYCOMPE at [CyberAgent](https://www.cyberagent.co.jp/)

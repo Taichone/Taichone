@@ -75,9 +75,6 @@ A Pomodoro Timer App that can start breaks manually, not just automatically.
   <a href="https://github.com/" style="display: inline-block">
       <img src="https://github.com/Taichone/Taichone/assets/86025871/29b3054f-8913-4f73-baa4-d514bc688bd1" alt="GitHub" height="100"/>
   </a>
-  <a href="https://firebase.google.com/" style="display: inline-block">
-      <img src="https://github.com/Taichone/Taichone/assets/86025871/b678d87e-fdc3-4a66-81f7-146c8bf9c608" alt="Firebase" height="100"/>
-  </a>
 </div>
 
 # Links

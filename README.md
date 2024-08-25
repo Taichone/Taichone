@@ -11,13 +11,13 @@ I'm a student majoring in CS at Nagoya University, and usually develop apps as a
 
 
 # Part-time jobs, internships, etc.
-- 2021/6 (1.5 years): Part-time job at [L is B](https://l-is-b.com/)
-- 2024/7 (1 day):   Internship at [Sansan](https://jp.corp-sansan.com/)
-- 2024/7 (2 weeks): Internship at [teamLab](https://www.team-lab.com/)
-- 2024/8 (2 days):  CYCOMPE at [CyberAgent](https://www.cyberagent.co.jp/)
-- 2024/9 (5 days):  Internship at [Cybozu](https://cybozu.co.jp/)
-- 2024/9 (5 days):  Internship at [Rakuten](https://global.rakuten.com/corp/)
-- 2024/9 (2 weeks): Internship at [Yumemi](https://www.yumemi.co.jp/)
+- June 2021 - December 2022: Part-time job at [L is B](https://l-is-b.com/) (1.5 years)
+- July 2024: Internship at [Sansan](https://jp.corp-sansan.com/) (1 day)
+- July 2024: Internship at [teamLab](https://www.team-lab.com/) (2 weeks)
+- August 2024: CYCOMPE at [CyberAgent](https://www.cyberagent.co.jp/) (2 days)
+- September 2024: Internship at [Cybozu](https://cybozu.co.jp/) (5 days)
+- September 2024: Internship at [Rakuten](https://global.rakuten.com/corp/) (5 days)
+- September 2024: Internship at [Yumemi](https://www.yumemi.co.jp/) (2 weeks)
 
 # Products
 ### Plasta (iOS, iPadOS)

@@ -9,16 +9,6 @@
 # About me
 I'm a student majoring in CS at Nagoya University, and usually develop apps as a hobby.
 
-
-# Part-time jobs, internships, etc.
-- June 2021 - December 2022: Part-time job at [L is B](https://l-is-b.com/) (1.5 years)
-- July 2024: Internship at [Sansan](https://jp.corp-sansan.com/) (1 day)
-- July 2024: Internship at [teamLab](https://www.team-lab.com/) (2 weeks)
-- August 2024: CYCOMPE at [CyberAgent](https://www.cyberagent.co.jp/) (2 days)
-- September 2024: Internship at [Cybozu](https://cybozu.co.jp/) (5 days)
-- September 2024: Internship at [Rakuten](https://global.rakuten.com/corp/) (5 days)
-- September 2024: Internship at [Yumemi](https://www.yumemi.co.jp/) (2 weeks)
-
 # Products
 ### Plasta (iOS, iPadOS)
 A Simulation App that visualizes individual skills like a baseball game.  

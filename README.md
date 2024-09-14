@@ -12,7 +12,7 @@ I'm a student majoring in CS at Nagoya University, and usually develop apps as a
 # Links
 <div>
   <a href="https://www.wantedly.com/id/miki_taichi" style="display: inline-block">
-      <img src="https://avatars.githubusercontent.com/u/86025871?v=4" alt="Wantedly" height="100"/>
+      <img src="https://images.wantedly.com/i/MkduuPf?h=480&w=1440" alt="Wantedly" height="100"/>
   </a>
 </div>
 

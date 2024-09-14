@@ -26,6 +26,7 @@ A Pomodoro Timer App that can start breaks manually, not just automatically.
       <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/95/2a/c7952ac6-fe7b-bc0d-124b-d0f60c42c76b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" alt="AppStore" height="100"/>
   </a>
 </div>
+-->
 
 # My Skills
 ### iOS
@@ -67,7 +68,6 @@ A Pomodoro Timer App that can start breaks manually, not just automatically.
       <img src="https://github.com/Taichone/Taichone/assets/86025871/29b3054f-8913-4f73-baa4-d514bc688bd1" alt="GitHub" height="100"/>
   </a>
 </div>
--->
 
 # Links
 - [My Links](https://bento.me/taichone)

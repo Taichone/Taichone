@@ -10,11 +10,7 @@
 I'm a student majoring in CS at Nagoya University, and usually develop apps as a hobby.
 
 # My Profile
-<div>
-  <a href="https://www.wantedly.com/id/miki_taichi" style="display: inline-block">
-      <img src="https://images.wantedly.com/i/MkduuPf?h=480&w=1440" alt="Wantedly" height="100"/>
-  </a>
-</div>
+[Wantedly](https://www.wantedly.com/id/miki_taichi)
 
 <!--
 # Products

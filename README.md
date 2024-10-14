@@ -1,14 +1,13 @@
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=taichone&theme=radical&border_radius=10" width="400" />
-  </a>
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats-theta-one-89.vercel.app/api?username=taichone&theme=radical&border_radius=10" alt="GitHub Stats" height="140em">
+    <img src="https://github-profile-trophy.vercel.app/?username=taichone&theme=radical&border_radius=10" alt="GitHub Trophies" height="140em">
 </p>
 
-# About me
-I'm a student majoring in CS at Nagoya University, and usually develop apps as a hobby.
-
-# My Profile
-[Wantedly](https://www.wantedly.com/id/miki_taichi)
+<h2 align="center">About me</h2>
+<p align="center">
+    <a href="https://www.wantedly.com/id/miki_taichi" target="_blank"><img src="https://github.com/user-attachments/assets/000918bb-7fa1-4ff3-a776-02312a05723a" alt="Wantedly" height="100"></a>
+</p>
 
 <!--
 # Products

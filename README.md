@@ -11,5 +11,5 @@
 
 <h2 align="center">Technologies & Tools I’m interested in</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=swift,apple,supabase,fastapi,python,notion,figma,firebase,github,git,c,cpp,arduino,pytorch,java,androidstudio,flutter,dart,kotlin,nextjs,react,ts,js,html,css" alt="Technologies & Tools">
+    <img src="https://skillicons.dev/icons?i=swift,apple,supabase,fastapi,python,notion,figma,firebase,github,githubactions,git,c,cpp,arduino,pytorch,java,androidstudio,flutter,dart,kotlin,nextjs,react,ts,js,html,css" alt="Technologies & Tools">
 </p>

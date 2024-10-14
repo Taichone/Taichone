@@ -1,9 +1,8 @@
 <h1 align="center">About me</h1>
 <p align="center">
-    <a href="https://www.wantedly.com/id/miki_taichi" target="_blank"><img src="https://github.com/user-attachments/assets/745bd9a2-0c31-4ec4-8ef8-775a5dfc2b8e" alt="Wantedly" width="500"></a>
+    <a href="https://www.wantedly.com/id/miki_taichi" target="_blank"><img src="https://github.com/user-attachments/assets/a7a164c5-706b-4234-9f31-5fd9bb7d1620" alt="Wantedly" width="500"></a>
+    <a href="https://www.linkedin.com/in/taichi-miki-965641298" target="_blank"><img src="https://github.com/user-attachments/assets/450ebbdf-df04-4ca3-b8c8-8d21d7048281" alt="Wantedly" width="500"></a>
 </p>
-
-
 
 <h1 align="center">My GitHub Stats</h1>
 <p align="center">

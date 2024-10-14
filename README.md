@@ -5,8 +5,8 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats-theta-one-89.vercel.app/api?username=taichone&theme=radical&border_radius=10" alt="GitHub Stats" height="140em">
-    <img src="https://github-profile-trophy.vercel.app/?username=taichone&theme=radical&border_radius=10" alt="GitHub Trophies" height="140em">
+    <img src="https://github-readme-stats-theta-one-89.vercel.app/api?username=taichone&hide=stars,contribs&theme=radical&count_private=true&border_radius=10" alt="GitHub Stats" height="140">
+    <img src="https://github-profile-trophy.vercel.app/?username=taichone&column=3&theme=juicyfresh&count_private=true&border_radius=10" alt="GitHub Trophies" height="140">
 </p>
 
 <h2 align="center">Technologies & Tools I’m interested in</h2>

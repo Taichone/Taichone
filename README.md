@@ -11,7 +11,7 @@
 
 <h2 align="center">Technologies & Tools I’m interested in (but not yet skilled 😂)</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=notion,apple,swift,supabase,fastapi,python,figma,firebase,github,git,postman,discord,linkedin,md," alt="My Skills">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart,nextjs,react,ts,js,html,css," alt="My Future Skills">
+    <img src="https://skillicons.dev/icons?i=swift,apple,supabase,fastapi,python,notion,figma,firebase,github,git,postman,discord,linkedin,md," alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,nextjs,react,ts,js,html,css," alt="My Future Skills">
     <img src="https://skillicons.dev/icons?i=c,cpp,arduino,processing,anaconda,pytorch,java," alt="Technologies Used at University">
 </p>

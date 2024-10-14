@@ -1,7 +1,9 @@
 <h1 align="center">About me</h1>
 <p align="center">
-    <a href="https://www.wantedly.com/id/miki_taichi" target="_blank"><img src="https://github.com/user-attachments/assets/000918bb-7fa1-4ff3-a776-02312a05723a" alt="Wantedly" width="500"></a>
+    <a href="https://www.wantedly.com/id/miki_taichi" target="_blank"><img src="https://github.com/user-attachments/assets/745bd9a2-0c31-4ec4-8ef8-775a5dfc2b8e" alt="Wantedly" width="500"></a>
 </p>
+
+
 
 <h1 align="center">My GitHub Stats</h1>
 <p align="center">

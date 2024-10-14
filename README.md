@@ -9,9 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=taichone&theme=radical&border_radius=10" alt="GitHub Trophies" height="140em">
 </p>
 
-<h2 align="center">Technologies & Tools I’m interested in (but not yet skilled 😂)</h2>
+<h2 align="center">Technologies & Tools I’m interested in</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=swift,apple,supabase,fastapi,python,notion,figma,firebase,github,git,postman,discord,linkedin,md," alt="My Skills">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,nextjs,react,ts,js,html,css," alt="My Future Skills">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,processing,anaconda,pytorch,java," alt="Technologies Used at University">
+    <img src="https://skillicons.dev/icons?i=swift,apple,supabase,fastapi,python,notion,figma,firebase,github,git,c,cpp,arduino,pytorch,java,androidstudio,flutter,dart,kotlin,nextjs,react,ts,js,html,css" alt="Technologies & Tools">
 </p>

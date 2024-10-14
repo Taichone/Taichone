@@ -11,7 +11,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=taichone&title=-Stars&column=4&theme=juicyfresh" alt="GitHub Trophies" width="500">
 </p>
 
-<h1 align="center">Technologies & Tools I’m interested in</h1>
+<h1 align="center">Technologies of Interest</h1>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=swift,apple,supabase,fastapi,python,notion,figma,firebase,github,githubactions,git,c,cpp,arduino,pytorch,java,androidstudio,flutter,dart,kotlin,nextjs,react,ts,js,html,css&perline=10" alt="Technologies & Tools" width="500">
 </p>

@@ -6,7 +6,7 @@
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats-theta-one-89.vercel.app/api?username=taichone&hide=stars,contribs&theme=radical&count_private=true&border_radius=10" alt="GitHub Stats" width="500">
-    <img src="https://github-profile-trophy.vercel.app/?username=taichone&column=3&theme=juicyfresh&count_private=true&border_radius=10" alt="GitHub Trophies" width="500">
+    <img src="https://github-profile-trophy.vercel.app/?username=taichone&title=-Stars&column=4&theme=juicyfresh" alt="GitHub Trophies" width="500">
 </p>
 
 <h2 align="center">Technologies & Tools I’m interested in</h2>

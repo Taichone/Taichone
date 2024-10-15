@@ -12,7 +12,7 @@
 
 <h1 align="center">Technologies & Tools</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=swift,apple,python,pytorch,notion,figma,discord,vscode,firebase,github,git,c,cpp,arduino,processing,java,html,css&perline=10" alt="Technologies & Tools" width="500">
+    <img src="https://skillicons.dev/icons?i=swift,apple,python,pytorch,notion,figma,vscode,firebase,github,git,c,cpp,arduino,processing,java,html,css&perline=10" alt="Technologies & Tools" width="500">
 </p>
 
 <h3 align="center">🤔💭</h3>

@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=swift,apple,python,pytorch,notion,figma,discord,vscode,firebase,github,git,c,cpp,arduino,processing,java,html,css&perline=10" alt="Technologies & Tools" width="500">
 </p>
 
-<h3 align="center">Technologies of Interest 💭</h3>
+<h3 align="center">🤔💭</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=fastapi,githubactions,flutter,dart,kotlin,nextjs,react,ts,js,docker,&perline=10" alt="Technologies & Tools" width="500">
 </p>

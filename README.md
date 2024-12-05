@@ -17,5 +17,5 @@
 
 <h3 align="center">🤔💕💭</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,kotlin,flutter,dart,githubactions,docker,&perline=10" alt="Technologies & Tools" width="500">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,kotlin,flutter,dart,githubactions,&perline=10" alt="Technologies & Tools" width="500">
 </p>

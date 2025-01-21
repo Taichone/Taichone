@@ -14,3 +14,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=swift,nextjs,react,tailwind,ts,html,css,firebase,supabase,fastapi,python,notion,figma,github,git&perline=5" alt="Technologies & Tools" width="500">
 </p>
+
+<!--
+vercel,sentry,githubactions,c,androidstudio,kotlin,vscode,linkedin,discord
+--->

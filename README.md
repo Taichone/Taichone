@@ -16,5 +16,5 @@
 </p>
 
 <!--
-vercel,sentry,githubactions,c,androidstudio,kotlin,vscode,linkedin,discord
+vercel,sentry,githubactions,c,androidstudio,kotlin,
 --->

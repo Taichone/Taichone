@@ -13,9 +13,9 @@
 
 <h1 align="center">Technologies & Tools</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=swift,nextjs,react,tailwind,ts,html,css,firebase,supabase,fastapi,python,notion,figma,github,git&perline=5" alt="Technologies & Tools" width="500">
+    <img src="https://skillicons.dev/icons?i=fastapi,supabase,nextjs,react,tailwind,githubactions,github,swift,python,ts,html,css,figma,notion&perline=7" alt="Technologies & Tools" width="500">
 </p>
 
 <!--
-vercel,sentry,githubactions,c,androidstudio,kotlin,
+vercel,sentry,githubactions,c,androidstudio,kotlin,git,github,firebase
 --->

@@ -11,8 +11,8 @@
 
 <h1 align="center">My GitHub Stats</h1>
 <p align="center">
-    <img src="https://github-readme-stats-theta-one-89.vercel.app/api?username=taichone&hide=stars,contribs&theme=radical&count_private=true&border_radius=10" alt="GitHub Stats" width="500"><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=taichone&title=-Stars&column=4&theme=juicyfresh" alt="GitHub Trophies" width="500"><br>
+    <img src="https://github-readme-stats-theta-one-89.vercel.app/api?username=taichone&hide=stars,contribs&count_private=true&border_radius=10" alt="GitHub Stats" width="500"><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=taichone&title=-Stars&column=4" alt="GitHub Trophies" width="500"><br>
 <!--     <img src="https://github-readme-stats-theta-one-89.vercel.app/api/top-langs/?username=taichone&theme=radical" alt="Top Languages" width="500"> -->
 </p>
 

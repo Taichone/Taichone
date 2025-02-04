@@ -23,20 +23,10 @@ vercel,sentry,c,androidstudio,kotlin,git,github,firebase,css,html
     <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="64" height="64" style="border-radius:8px; margin:4px;" alt="Swift">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9pR7i0RDuxFM8CF3NvbYUBlbJ8YwOLv83w&s" width="64" height="64" style="border-radius:8px; margin:4px;" alt="SwiftUI">
     <img src="https://developer.apple.com/assets/elements/icons/swift-testing/swift-testing-96x96_2x.png" width="64" height="64" style="border-radius:8px; margin:4px;" alt="Swift Testing">
-    <img src="" width="64" height="64" style="border-radius:8px; margin:4px;" alt="FastAPI">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="Python">
     <br>
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術6">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術7">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術8">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術9">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術10">
-    <br>
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術11">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術12">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術13">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術14">
-    <img src="https://via.placeholder.com/64" width="64" height="64" style="border-radius:8px; margin:4px;" alt="技術15">
+    <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="64" height="64" style="border-radius:8px; margin:4px;" alt="Swift">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9pR7i0RDuxFM8CF3NvbYUBlbJ8YwOLv83w&s" width="64" height="64" style="border-radius:8px; margin:4px;" alt="SwiftUI">
+    <img src="https://developer.apple.com/assets/elements/icons/swift-testing/swift-testing-96x96_2x.png" width="64" height="64" style="border-radius:8px; margin:4px;" alt="Swift Testing">
 </div>
 
 --->

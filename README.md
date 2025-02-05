@@ -6,7 +6,7 @@
 
 <h1 align="center">Technologies & Tools</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=fastapi,supabase,nextjs,react,tailwind,swift,ts,python,githubactions,figma&perline=5&theme=light" alt="Technologies & Tools" width="500">
+    <img src="https://skillicons.dev/icons?i=fastapi,supabase,nextjs,react,tailwind,swift,ts,python,html,css,c,git,github,githubactions,figma,firebase&perline=8&theme=dark" alt="Technologies & Tools" width="500">
 </p>
 
 <h1 align="center">My GitHub Stats</h1>
@@ -17,7 +17,7 @@
 </p>
 
 <!--
-vercel,sentry,c,androidstudio,kotlin,git,github,firebase,css,html
+nestjs,vercel,sentry,androidstudio,kotlin,git,github,firebase,css,html,c
 
 <div align="center" width="500">
     <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="64" height="64" style="border-radius:8px; margin:4px;" alt="Swift">

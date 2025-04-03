@@ -6,7 +6,7 @@
 
 <h1 align="center">Technologies & Tools</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=fastapi,supabase,nextjs,react,tailwind,swift,ts,python,notion,&perline=8&theme=dark" alt="Technologies & Tools" width="500">
+    <img src="https://skillicons.dev/icons?i=swift,ts,nextjs,react,tailwind,python,fastapi,supabase,notion,&perline=9&theme=dark" alt="Technologies & Tools" width="500">
 </p>
 
 <h1 align="center">My GitHub Stats</h1>

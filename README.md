@@ -19,7 +19,7 @@
     <td valign="top">
       <div><b>Nagoya University / 名古屋大学</b></div>
       <div><sub>Informatics Master’s Student / 情報学研究科 修士課程</sub></div>
-      <div><sub>Apr 2024 – Dec 2026</sub></div>
+      <div><sub>Apr 2024 – Mar 2026</sub></div>
     </td>
   </tr>
 
